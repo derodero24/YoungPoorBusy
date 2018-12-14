@@ -1,0 +1,18 @@
+5
+Max fare: 3000 yen	Max fare id: 2 3 4 
+Max time: 305 min	Max time id: 4 
+0 495 1 750 2500
+2 510 1 815 3000
+4
+Max fare: 3000 yen	Max fare id: 2 3 
+Max time: 305 min	Max time id: 3 
+0 495 1 750 2500
+2 510 1 815 3000
+18
+Max fare: 3840 yen	Max fare id: 0 2 7 8 9 
+Max time: 115 min	Max time id: 1 
+0 480 1 533 3550
+0 1360 1 1414 3550
+2 584 1 664 1330
+2 1314 1 1354 2660
+0
